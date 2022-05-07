@@ -1,0 +1,13 @@
+#Added Features:
+----------------
+a- 2 push buttons for time editing:
+    . one to increment minutes by 1
+    . one to increment hours by 1
+
+b- 2 debugging push buttons for better testing and less wasted time:
+    . one to make minutes be 59
+    . one to make seconds be 58
+
+c- 7-segment blinks 10 times every hour
+
+d- After each 24hours the stopwatch resets.
